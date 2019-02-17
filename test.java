@@ -15,3 +15,5 @@ li
 dongk
 kui
 finish
+push.defult
+
