@@ -14,4 +14,5 @@ world
 li
 dongk
 kui
+push.defult
 
